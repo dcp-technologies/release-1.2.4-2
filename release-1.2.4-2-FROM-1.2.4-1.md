@@ -260,10 +260,12 @@ filemanagerrepo: dcpfm
 Le service ***Metastore*** ne supporte plus de prendre en charge plusieurs buckets. 
 Sélectionner chaque metastore et sélectionner la bucket à lui associer.
 
-# Sql Policy
-Redémarrer tous les services ***Sql Policy*** pour utiliser la dernière version qui apporte des améliorations
+# PATCH
 ```
-3. Avant d'appliquer le patch de des service "Sql policy", s'assurer que tous ces services sont démarrées, sinon le patch ne s'appliquera pas correctement
+Avant d'appliquer le patch des service "Sql policy", s'assurer que tous ces services sont démarrées, sinon le patch ne s'appliquera pas correctement
 ```
 Patch Sql Policy
 ```
+
+# Sql Policy
+Redémarrer tous les services ***Sql Policy*** pour utiliser la dernière version qui apporte des améliorations
