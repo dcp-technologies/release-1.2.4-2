@@ -261,7 +261,6 @@ Le service ***Metastore*** ne supporte plus de prendre en charge plusieurs bucke
 Sélectionner chaque metastore et sélectionner la bucket à lui associer.
 
 # PATCH
-```
 Avant d'appliquer le patch des service "Sql policy", s'assurer que tous ces services sont démarrées, sinon le patch ne s'appliquera pas correctement
 ```
 Patch Sql Policy
