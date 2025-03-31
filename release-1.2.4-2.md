@@ -352,7 +352,7 @@ Patch volumes
 Patch Spark Jobs
 ```
 
-3. Avant d'appliquer le patch de des service "Sql policy", s'assurer que tous ces services sont démarrées, sinon le patch ne s'appliquera pas correctement
+3. Avant d'appliquer le patch des service "Sql policy", s'assurer que tous ces services sont démarrées, sinon le patch ne s'appliquera pas correctement
 ```
 Patch Sql Policy
 ```
